@@ -6,10 +6,10 @@ author_profile: true
 
 ## Publications
 
-- [Windfall Gains and Stock Market Participation: Evidence from Shopping Receipt Lottery](https://www.sciencedirect.com/science/article/pii/S0378426624002929?dgcid=coauthor) with Tzu-Chang Forrest Cheng, Tse-Chun Lin, Tzu-Ting Yang and Jian-Da Zhu. *Journal of Banking and Finance*
-<details><summary>Abstract</summary>
+- [Windfall Gains and Stock Market Participation: Evidence from Shopping Receipt Lottery](https://www.sciencedirect.com/science/article/pii/S0378426624002929?dgcid=coauthor) with Tzu-Chang Forrest Cheng, Tse-Chun Lin, Tzu-Ting Yang and Jian-Da Zhu. *Journal of Banking and Finance* [[Abstract]](#){: .abs-toggle}
+<div class="abstract">
 This paper utilizes receipt lotteries in Taiwan, along with comprehensive administrative data, to examine the effect of cash windfalls on stock market participation and portfolio diversification, which can help us understand whether wealth levels serve as the explanation for the limited participation and under-diversification puzzles in stock markets. The results indicate that each million TWD (approximately 33,000 USD) windfall gain from winning receipt lotteries increases the probability of stock market participation by 1.09 percentage points. This effect is primarily driven by individuals who were not participating in the stock market prior to winning. For existing participants, each million TWD windfall increases the total value of stocks by 142,552 TWD, attributed to both an increase in their number of shares and higher average prices of the stocks they hold. Additionally, we find that individuals do not significantly diversify their portfolios after winning the lottery, suggesting that wealth level is not the primary reason for under-diversification.
-</details>
+</div>
 
 ## Working Papers
 
@@ -39,3 +39,16 @@ This paper studies how students form beliefs about their academic ability and ho
 - Does Being Wealthy Make You Donate: Evidence from Lottery Winners in Taiwan (with Hsing-Wen Han, Kuang-Ta Lo, and Tzu-Ting Yang)
 
 - Windfall Gains and Housing Allocation: Evidence from Lottery Winners in Taiwan (with Tzu-Chang Forrest Cheng, Tzu-Ting Yang, and Jian-Da Zhu) [[Slide]](https://www.dropbox.com/scl/fi/azsvlya1we1fqo0kyjv7g/Housing_Presentation_SETA_2024.pdf?rlkey=xncymo9yeu5vddn4to5gl7qnn&e=1&dl=0)
+
+
+<script>
+document.querySelectorAll('.abs-toggle').forEach(function (btn) {
+  btn.addEventListener('click', function (e) {
+    e.preventDefault();
+    var box = btn.closest('ul').nextElementSibling;
+    if (box && box.classList.contains('abstract')) {
+      box.classList.toggle('open');
+    }
+  });
+});
+</script>
