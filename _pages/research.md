@@ -13,8 +13,7 @@ author_profile: true
 
 ## Working Papers
 
-- [Unpacking the STEM Gender Gap: Evidence from Taiwan](dropbox.com/scl/fi/dqm7rao1l1ee4vl0v3n46/TaiwanSTEMGenderGap_manuscript.pdf?rlkey=3aoejw5gmq09vn3r5v173hqug&dl=0) with Ian Fillmore, Hao-Chung Li, and Hsienming Lien, R&R in *Journal of Human Capital*  <details>
-  <summary>Abstract</summary>
+- [Unpacking the STEM Gender Gap: Evidence from Taiwan](dropbox.com/scl/fi/dqm7rao1l1ee4vl0v3n46/TaiwanSTEMGenderGap_manuscript.pdf?rlkey=3aoejw5gmq09vn3r5v173hqug&dl=0) with Ian Fillmore, Hao-Chung Li, and Hsienming Lien, R&R in *Journal of Human Capital*  <details> <summary>Abstract</summary>
   Women enroll in science, technology, engineering, and math (STEM) fields less often than men. Using Taiwanese data from 2011–2018 we unpack the drivers of this gap, and find the gap in STEM enrollment largely reflects a gap in applications. Conditional on applying, women are as likely to be admitted as comparable men. We then explore the gap in STEM applications, and find one-third can be explained by math and science scores. The gap in STEM applications also differs widely across high schools, suggesting that educational institutions and social factors play a role in shaping women’s interests in STEM
   </details>
 
