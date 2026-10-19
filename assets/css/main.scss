@@ -53,3 +53,12 @@
 .abstract.open {
   display: block;
 }
+
+/* [Abstract]：灰色、無底線 */
+.page__content a.abs-toggle {
+  color: #9a9a9a !important;
+  text-decoration: none !important;
+}
+.page__content a.abs-toggle:hover {
+  color: #c0c0c0 !important;
+}
