@@ -53,3 +53,13 @@
 .abstract.open {
   display: block;
 }
+
+/* 內文連結（論文標題、Slide 等）改成較暗的藍色 */
+.page__content a {
+  color: #2380b8 !important;
+}
+
+/* [Abstract] 去掉底線 */
+.abs-toggle {
+  text-decoration: none !important;
+}
