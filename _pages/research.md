@@ -14,7 +14,7 @@ This paper utilizes receipt lotteries in Taiwan, along with comprehensive admini
 
 ## Working Papers
 
-- [Unpacking the STEM Gender Gap: Evidence from Taiwan](dropbox.com/scl/fi/dqm7rao1l1ee4vl0v3n46/TaiwanSTEMGenderGap_manuscript.pdf?rlkey=3aoejw5gmq09vn3r5v173hqug&dl=0) with Ian Fillmore, Hao-Chung Li, and Hsienming Lien, R&R in *Journal of Human Capital* <a href="#" class="abs-toggle">[Abstract]</a>
+- [Unpacking the STEM Gender Gap: Evidence from Taiwan](https://www.dropbox.com/scl/fi/dqm7rao1l1ee4vl0v3n46/TaiwanSTEMGenderGap_manuscript.pdf?rlkey=3aoejw5gmq09vn3r5v173hqug&e=1&dl=0) with Ian Fillmore, Hao-Chung Li, and Hsienming Lien, R&R in *Journal of Human Capital* <a href="#" class="abs-toggle">[Abstract]</a>
 
 <div class="abstract">
 Women enroll in science, technology, engineering, and math (STEM) fields less often than men. Using Taiwanese data from 2011–2018 we unpack the drivers of this gap, and find the gap in STEM enrollment largely reflects a gap in applications. Conditional on applying, women are as likely to be admitted as comparable men. We then explore the gap in STEM applications, and find one-third can be explained by math and science scores. The gap in STEM applications also differs widely across high schools, suggesting that educational institutions and social factors play a role in shaping women’s interests in STEM
@@ -34,7 +34,7 @@ This paper studies how students form beliefs about their academic ability and ho
 
 - Centralized College Choice and Risk Aversion of Application: Evidence from Taiwan General Scholastic Ability Test [[Slide]](https://www.dropbox.com/scl/fi/f3897n6h6ly0ddnxv6o60/Choice_Risk_Aversion_Slide.pdf?rlkey=2u9xsv0i8rn5biuy7clzisr4x&e=1&dl=0)
 
-- Do Fines for Refusing Breath Tests Reduce Drunk Driving? Evidence from Taipei City Police Statistics [[Slide]](dropbox.com/scl/fi/113ndsnfpq6v1nuyfea50/Drunken_Driving_Slide.pdf?rlkey=4sdzmfglj4bikzx6b46t6qco8&dl=0)
+- Do Fines for Refusing Breath Tests Reduce Drunk Driving? Evidence from Taipei City Police Statistics [[Slide]](https://www.dropbox.com/scl/fi/113ndsnfpq6v1nuyfea50/Drunken_Driving_Slide.pdf?rlkey=4sdzmfglj4bikzx6b46t6qco8&dl=0)
 
 - Cash for Habit: Evaluation of a Smart Energy Saving Project in Taiwan
 
