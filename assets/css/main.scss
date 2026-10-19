@@ -36,3 +36,25 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* ===== 自訂顏色 ===== */
+
+/* 上方選單：Research、Teaching、CV */
+.greedy-nav .visible-links a {
+  color: #3b8fd9 !important;
+}
+
+/* 左上角的網站名稱 */
+.greedy-nav .visible-links .masthead__menu-item--lg a {
+  color: #3b8fd9 !important;
+}
+
+/* 選單下方的底線（滑鼠移過去或目前所在頁面） */
+.greedy-nav .visible-links a:before {
+  background: #3b8fd9 !important;
+}
+
+/* 左側欄照片下方的名字 */
+.author__name {
+  color: #3b8fd9 !important;
+}
