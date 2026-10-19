@@ -62,3 +62,9 @@
 .page__content a.abs-toggle:hover {
   color: #c0c0c0 !important;
 }
+
+/* 深色模式：背景改成接近黑色 */
+html[data-theme="dark"] {
+  --global-bg-color: #1a1a1a !important;
+  --global-footer-bg-color: #1a1a1a !important;
+}
