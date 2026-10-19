@@ -42,8 +42,13 @@
   color: #5aa9e6 !important;
 }
 
-/* Abstract 和清單內容對齊 */
-.page__content details {
-  margin-left: 3em;
+/* Abstract 預設收起，點開後顯示 */
+.abstract {
+  display: none;
+  margin-left: 2.3em;
   margin-bottom: 1em;
+  font-size: 0.9em;
+}
+.abstract.open {
+  display: block;
 }
