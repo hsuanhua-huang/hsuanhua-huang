@@ -8,6 +8,11 @@ author_profile: true
 
 - [Windfall Gains and Stock Market Participation: Evidence from Shopping Receipt Lottery](https://www.sciencedirect.com/science/article/pii/S0378426624002929?dgcid=coauthor) with Tzu-Chang Forrest Cheng, Tse-Chun Lin, Tzu-Ting Yang and Jian-Da Zhu. *Journal of Banking and Finance*
 
+ <details>
+  <summary>Abstract</summary>
+  This paper utilizes receipt lotteries in Taiwan, along with comprehensive administrative data, to examine the effect of cash windfalls on stock market participation and portfolio diversification, which can help us understand whether wealth levels serve as the explanation for the limited participation and under-diversification puzzles in stock markets. The results indicate that each million TWD (approximately 33,000 USD) windfall gain from winning receipt lotteries increases the probability of stock market participation by 1.09 percentage points. This effect is primarily driven by individuals who were not participating in the stock market prior to winning. For existing participants, each million TWD windfall increases the total value of stocks by 142,552 TWD, attributed to both an increase in their number of shares and higher average prices of the stocks they hold. Additionally, we find that individuals do not significantly diversify their portfolios after winning the lottery, suggesting that wealth level is not the primary reason for under-diversification.
+  </details>
+
 ## Working Papers
 
 - [Unpacking the STEM Gender Gap: Evidence from Taiwan](dropbox.com/scl/fi/dqm7rao1l1ee4vl0v3n46/TaiwanSTEMGenderGap_manuscript.pdf?rlkey=3aoejw5gmq09vn3r5v173hqug&dl=0) with Ian Fillmore, Hao-Chung Li, and Hsienming Lien, R&R in *Journal of Human Capital*
