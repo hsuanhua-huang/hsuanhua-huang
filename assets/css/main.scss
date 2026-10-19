@@ -68,3 +68,11 @@ html[data-theme="dark"] {
   --global-bg-color: #1a1a1a !important;
   --global-footer-bg-color: #1a1a1a !important;
 }
+
+/* Teaching 頁面的學校名稱 */
+.page__content h4 {
+  color: #5aa9e6;
+  font-size: 1.05em;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+}
